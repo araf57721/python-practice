@@ -9,3 +9,4 @@ for i in range(1,m+1):
         print("This is a odd number" , i)
 
 print(count)
+n = input("Enter name :")
