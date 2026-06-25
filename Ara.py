@@ -1,4 +1,4 @@
-for i in range(5):
+for i in range():
     for j in range(7):
         if(i == 0):
             if(j == 1 or j == 2 or j == 4 or j ==5):
